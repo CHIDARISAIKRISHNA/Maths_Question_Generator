@@ -12,7 +12,6 @@ The system supports Multiple Choice Questions (MCQs), Short Answer Questions, an
 - Generate questions from sample contexts (Algebra, Calculus, Geometry, Probability)
 - Generate questions from custom user input
 - Generate questions from external datasets (JSONL)
-- Automatic answer generation
 - Automatic distractor generation for MCQs
 - Deduplication system to prevent repeated questions
 - AI-powered question generation using pattern recognition and Llama 3.1
