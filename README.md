@@ -40,21 +40,11 @@ Backend:
 - Artificial Intelligence (AI)
 
 Libraries Used:
-- numpy
-- pandas
-- nltk
-- scikit-learn
-- sympy
-- transformers
-- sentence-transformers
-- keybert
-- flashtext
-- matplotlib
-- seaborn
-- opencv-python-headless
-- pytesseract
-- Pillow
-- rouge
+- numpy, pandas,nltk
+- scikit-learn, sympy, transformers, sentence-transformers
+- keybert, flashtext, matplotlib, seaborn
+- opencv-python-headless, pytesseract
+- Pillow, rouge
 
 AI Model:
 - Llama 3.1 Large Language Model
