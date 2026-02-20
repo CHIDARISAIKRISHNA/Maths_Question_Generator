@@ -8,9 +8,7 @@ The system supports Multiple Choice Questions (MCQs), Short Answer Questions, an
 
 ## 🚀 Features
 
-- Generate Multiple Choice Questions (MCQs)
-- Generate Short Answer Questions
-- Generate Fill-in-the-Blank Questions
+- Generate Multiple Choice Questions (MCQs), Short Answer Questions and Fill-in-the-Blank Questions.
 - Generate questions from sample contexts (Algebra, Calculus, Geometry, Probability)
 - Generate questions from custom user input
 - Generate questions from external datasets (JSONL)
@@ -40,6 +38,7 @@ Frontend:
 
 Backend:
 - Python
+- Artificial Intelligence (AI)
 
 Libraries Used:
 - numpy
@@ -97,8 +96,9 @@ streamlit run app.py
 ```
 
 # Step 5: Open in browser
+```bash
 http://localhost:8501
-
+```
 ---
 
 ## 🌐 Deployment (Streamlit Cloud)
