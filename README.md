@@ -100,24 +100,6 @@ http://localhost:8501
 ```
 ---
 
-## 🌐 Deployment (Streamlit Cloud)
-
-Make sure these files exist:
-
-requirements.txt → contains all python libraries
-
-packages.txt → contains:
-
-tesseract-ocr
-
-runtime.txt → contains:
-
-python-3.11
-
-Then deploy using Streamlit Cloud.
-
----
-
 ## 📊 Datasets Used
 
 1) example_model_solutions.jsonl  
