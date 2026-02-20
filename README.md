@@ -75,19 +75,26 @@ AI Model:
 
 ## ⚙️ Installation and Running
 
-```bash
+
 # Step 1: Clone the repository
+```bash
 git clone https://github.com/<your-username>/maths_question_generator.git
 ```
 
 # Step 2: Go to project folder
+```bash
 cd maths_question_generator
+```
 
 # Step 3: Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 # Step 4: Run the Streamlit application
+```bash
 streamlit run app.py
+```
 
 # Step 5: Open in browser
 http://localhost:8501
