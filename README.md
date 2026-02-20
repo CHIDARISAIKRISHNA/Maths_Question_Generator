@@ -76,7 +76,7 @@ AI Model:
 
 # Step 1: Clone the repository
 ```bash
-git clone https://github.com/<your-username>/maths_question_generator.git
+git clone https://github.com/CHIDARISAIKRISHNA/Maths_Question_Generator.git
 ```
 
 # Step 2: Go to project folder
